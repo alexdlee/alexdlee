@@ -13,4 +13,4 @@ I'm a developer passionate about building projects to help make mine and others'
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/alexander-lee-bt3/)
-- [Email](alexdnl@umich.edu)
+- Email: alexdnl@umich.edu
