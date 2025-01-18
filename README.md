@@ -6,7 +6,7 @@ I'm a developer passionate about building projects to help make mine and others'
 - Technologies/Frameworks: AWS, Express.js, PostgreSQL, MongoDB, React.js, Flask, Django, Git
 
 ## 📂 Projects
-- [CitySpotlight](https://github.com/alexdlee/CitySpotlight): Swift app designed to increase exposure for small businesses across Austin through a powerful search engine and informative and detailed tabs.
+- [CitySpotlight](https://github.com/alexdlee/CitySpotlight): Published to the App Store! Swift app designed to increase exposure for small businesses across Austin through a powerful search engine and informative and detailed tabs.
 - [Heart Clock](https://github.com/alexdlee/Heart-Clock-App): Smart Alarm Clock Swift app that autonomously wakes users up if their heart rate falls below sleeping heart rate threshold.
 - [FishBot](https://github.com/alexdlee/FishBot): Program that serves as a guide/journal for fishermen.
 - [National Parks Chatbot](https://github.com/alexdlee/national_parks_chatbot): Chatbot that serves as a guide for a vacation to national park across the USA.
