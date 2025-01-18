@@ -12,5 +12,5 @@ I'm a developer passionate about building projects to help make mine and others'
 - [National Parks Chatbot](https://github.com/alexdlee/national_parks_chatbot): Chatbot that serves as a guide for a vacation to national park across the USA.
 
 ## 📫 Get in Touch
-- [LinkedIn][(https://linkedin.com/in/username)](https://www.linkedin.com/in/alexander-lee-bt3/)
-- [Email]: alexdnl@umich.edu
+- [LinkedIn](https://www.linkedin.com/in/alexander-lee-bt3/)
+- [Email](alexdnl@umich.edu)
